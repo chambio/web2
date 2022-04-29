@@ -59,7 +59,7 @@ usuariosFGHFGHGHFGHFGHFGH
 ## 2 SOLUCION DEL CUESTIONARIO 
 - Git
 - GitHub
-<td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+<td><img src="C:/Users/unsa/pw2/lab1/ahh.png" alt="ABET" style="width:50%; height:auto"/></td>
 <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
 
 ## 3 CONCLUSIONES
