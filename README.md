@@ -53,8 +53,9 @@
 ## SOLUCION y RESULTADOS
 ## 1 SOLUCION DE EJERCICIOS /PROBLEMAS 
 
-- Aprender a manejar un sistema de control de versiones de manera colaborativa con varios
-usuariosFGHFGHGHFGHFGHFGH
+- SOLUCION INDIVIDUAL
+- Chambi orosco luis fernando
+- creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git
 
 ## 2 SOLUCION DEL CUESTIONARIO 
 - Git
