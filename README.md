@@ -54,8 +54,8 @@
 ## 1 SOLUCION DE EJERCICIOS /PROBLEMAS 
 
 - SOLUCION INDIVIDUAL
-- Chambi orosco luis fernando
-- creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git
+Chambi orosco luis fernando
+creacion de repositorio individual  https://github.com/luis-fernando-chambi-orosco/web2.git
 
 ## 2 SOLUCION DEL CUESTIONARIO 
 - Git
