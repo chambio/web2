@@ -59,7 +59,7 @@ usuariosFGHFGHGHFGHFGHFGH
 ## 2 SOLUCION DEL CUESTIONARIO 
 - Git
 - GitHub
-<td><img src="caniondelcolca_100.jpg" alt="ABET" style="width:50%; height:auto"/></td>
+<td><img src="caniondelcolca_100.jpg" alt=" " style="width:100%; height:auto"/></td>
 <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
 
 ## 3 CONCLUSIONES
